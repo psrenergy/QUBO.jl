@@ -1,5 +1,0 @@
-include("bqpjson/bqpjson.jl")
-include("hfs/hfs.jl")
-include("minizinc/minizinc.jl")
-include("qubist/qubist.jl")
-include("qubo/qubo.jl")
