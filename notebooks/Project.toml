@@ -1,4 +1,5 @@
 [deps]
 DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
 PySA = "46b73cfa-376a-48ee-8926-0c45ac3f7830"
+QUBO = "ce8c2e91-a970-4681-856b-16178c24a30c"
 Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
